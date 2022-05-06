@@ -1,2 +1,6 @@
 # dashboard-manager
-Moved to o11ydev 
+
+This repository has moved to 
+
+https://github.com/o11ydev/dashboard-manager
+
